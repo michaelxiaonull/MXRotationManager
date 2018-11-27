@@ -16,7 +16,7 @@
 @implementation AppDelegate
 
 #pragma mark - add method
-- (UIInterfaceOrientationMask)application:(UIApplication *)application supportedInterfaceOrienta    tionsForWindow:(UIWindow *)window {
+- (UIInterfaceOrientationMask)application:(UIApplication *)application supportedInterfaceOrientationsForWindow:(UIWindow *)window {
     return [MXRotationManager defaultManager].interfaceOrientationMask;
 }
 
