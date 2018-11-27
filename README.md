@@ -1,4 +1,4 @@
-#MXRotationManager
+# MXRotationManager
 
 `MXRotationManager` has only one line code to help you change device orientation!
 
