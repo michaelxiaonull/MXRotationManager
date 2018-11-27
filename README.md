@@ -35,7 +35,7 @@ implementation delegate method below in `AppDelegate.m`
 
 ## 中文介绍
 
-`MXActionSheet` 一行代码控制设备旋转方向
+`MXRotationManager` 一行代码控制设备旋转方向
 
 ## 屏幕截图
 
